@@ -1,7 +1,7 @@
-# unnamedRPG (OUTDATED, ABANDONED PROJECT)
+# unnamedRPG (OUTDATED, ABANDONED PROJECT, None of the links are working anymore.)
 
 **[Live App's Link](https://unnamed-rpg.herokuapp.com/ "An online RPG that is unnamed. :D")**  
-*(still under development)*
+
 
 ---
 
